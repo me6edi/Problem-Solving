@@ -1,1 +1,5 @@
-print("Hello, World!")
+# print("Hello, World!")
+# num = int(input())
+# a,b,c = map(int,input().split())
+# summation = num-(a+b+c)
+# print(summation)
